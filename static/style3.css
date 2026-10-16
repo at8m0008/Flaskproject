@@ -1,0 +1,51 @@
+html, body{
+    background-color: lightblue !important;
+    background-image: url("/static/stars.png") !important;
+    }
+*{
+    margin:0;
+    font-family: 'Gill Sans';
+    }
+.header{
+    background-color: #112D4E;
+    height: 200px;
+    padding: 50px;
+    }
+.title{
+font-size: 50px;
+    color: #F9F7F7;
+    padding-bottom: 20px;
+    }
+b{
+    color: #f3ddf5'
+    }
+.subtitle{
+    fint-size: 30px;
+    color: #819bba;
+    padding-bottom: 50px;
+    }
+a{
+    color: #819bba;
+    font-size: 20px;
+    }
+.about{
+    font-size: 40px;
+    color: #112D4E;
+    }
+p{
+    padding: 10px 0;
+    font-size: 20px;
+    }
+.planet{
+    height: 90px;
+    position: absolute;
+    right: 50 px;
+    z-index: 1;
+    left: 220px;
+    }
+.stars{
+    height: 200px;
+    position: absolute;
+    right: 0;
+    top: 0;
+    }

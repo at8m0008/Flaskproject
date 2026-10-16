@@ -1,0 +1,53 @@
+.size{
+display: flex;
+align-items: center;
+justify-content:
+space-between;
+width: 200px;
+}
+.btn-size{
+width: 60px;
+height: 40px;
+border-radius: 10px;
+background-color: #782affb2;
+color: white;
+font-size; 14px;
+}
+.btn-size:hover{
+background-color: #792aff;
+}
+.counter{
+display: flex;
+align-items: center;
+}
+#value{
+margin: 0 10px;
+}
+.price{
+font-size 25px;
+border-radius: 20px;
+margin-left: 30px;
+}
+.price-block{
+display: flex;
+align-items: center;
+}
+.active{
+background-color: #792aff;
+}
+#buy{
+background-color: #792aff;
+color: white;
+width: 10%;
+height: 40px;
+border-radius: 10px;
+font-size: 14px;
+}
+#buy1{
+background-color: #792aff;
+color: white;
+width: 10%;
+height: 40px;
+border-radius: 10px;
+font-size: 14px;
+}
